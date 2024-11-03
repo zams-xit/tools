@@ -11,24 +11,24 @@ Pastikan Python sudah terinstall
 Clone Repository
 
 ```bash
-  git clone https://github.com/zams-xit/tools
+git clone https://github.com/zams-xit/tools
 ```
 
 Pindah ke direktori Tools 
 
 ```bash
-  cd tools
+cd tools
 ```
 
 Instal Module
 
 ```bash
-  python install.py
+python install.py
 ```
 
 Run Tools Script
 
 ```bash
-  python tools-zams.py
+python tools-zams.py
 ```
 
